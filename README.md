@@ -4,3 +4,5 @@ Let me add a picture somewhere... Eh - I'll do that later. I need to upload the 
 Change text
 More changes to text
 This time I will not close the pull request - just work on it a bit...
+
+Now I also applied a Theme. I need to commit this file again for the change to take place on the page.
